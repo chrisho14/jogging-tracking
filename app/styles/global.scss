@@ -1,0 +1,15 @@
+@import '~styles/variables';
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+#app, .app {
+  height: 100%;
+  background-color: #DADADA;
+}
+
+.react-datepicker-wrapper, .react-datepicker__input-container {
+  display: block;
+}
